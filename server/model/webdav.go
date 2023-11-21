@@ -10,8 +10,8 @@ package model
 import (
 	"context"
 	"fmt"
-	. "github.com/mickael-kerjean/filestash/server/common"
-	"github.com/mickael-kerjean/net/webdav"
+	. "github.com/lsornana/filestash/server/common"
+	"github.com/lsornana/net/webdav"
 	"io"
 	"net/http"
 	"os"

@@ -1,7 +1,7 @@
 package plg_backend_s3
 
 import (
-	. "github.com/mickael-kerjean/filestash/server/common"
+	. "github.com/lsornana/filestash/server/common"
 	"time"
 )
 

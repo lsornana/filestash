@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/mickael-kerjean/saml"
+	"github.com/lsornana/saml"
 )
 
 const defaultSessionCookieName = "token"

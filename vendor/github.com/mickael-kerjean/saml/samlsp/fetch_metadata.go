@@ -12,7 +12,7 @@ import (
 	"github.com/crewjam/httperr"
 	xrv "github.com/mattermost/xml-roundtrip-validator"
 
-	"github.com/mickael-kerjean/saml"
+	"github.com/lsornana/saml"
 )
 
 // ParseMetadata parses arbitrary SAML IDP metadata.

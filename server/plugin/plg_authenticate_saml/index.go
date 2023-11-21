@@ -1,7 +1,7 @@
 package plg_authenticate_saml
 
 import (
-	. "github.com/mickael-kerjean/filestash/server/common"
+	. "github.com/lsornana/filestash/server/common"
 	"net/http"
 )
 
