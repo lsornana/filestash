@@ -1,8 +1,8 @@
-![screenshot](https://raw.githubusercontent.com/mickael-kerjean/filestash_images/master/.assets/photo.jpg)
+![screenshot](https://raw.githubusercontent.com/lsornana/filestash_images/master/.assets/photo.jpg)
 
 <p align="center">
     <a href="https://github.com/lsornana/contributors" alt="Contributors">
-        <img src="https://img.shields.io/github/contributors/mickael-kerjean/filestash" style="max-width:100%;">
+        <img src="https://img.shields.io/github/contributors/lsornana/filestash" style="max-width:100%;">
     </a>
     <a href="https://opencollective.com/filestash" alt="Backers on Open Collective">
         <img src="https://img.shields.io/opencollective/backers/filestash" style="max-width:100%;">
@@ -30,7 +30,7 @@
 </p>
 <p align="center">
     <a href="http://demo.filestash.app">
-      <img src="https://raw.githubusercontent.com/mickael-kerjean/filestash_images/master/.assets/button_demo.png" alt="demo button" />
+      <img src="https://raw.githubusercontent.com/lsornana/filestash_images/master/.assets/button_demo.png" alt="demo button" />
     </a>
 </p>
 
@@ -70,12 +70,12 @@
 # Screenshots
 <p align="center">
     <a href="https://demo.filestash.app">
-        <img src="https://raw.githubusercontent.com/mickael-kerjean/filestash_images/master/.assets/navigation.gif" alt="user experience on navigation" />
+        <img src="https://raw.githubusercontent.com/lsornana/filestash_images/master/.assets/navigation.gif" alt="user experience on navigation" />
     </a>
 </p>
 <p align="center">
     <a href="http://demo.filestash.app">
-        <img src="https://raw.githubusercontent.com/mickael-kerjean/filestash_images/master/.assets/photo_management.gif" alt="user experience on medias" />
+        <img src="https://raw.githubusercontent.com/lsornana/filestash_images/master/.assets/photo_management.gif" alt="user experience on medias" />
     </a>
 </p>
 
